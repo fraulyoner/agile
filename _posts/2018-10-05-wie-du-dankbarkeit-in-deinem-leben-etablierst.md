@@ -6,7 +6,7 @@ categories:
 tags:
 - Dankbarkeit
 - Perspektivenwechsel
-image: dankbar.jpg
+image: mindset/dankbar.jpg
 ---
 
 Stelle überhöhte Ansprüche und nimm alles Positive als selbstverständlich hin.
@@ -39,7 +39,7 @@ einem positiveren Grundgefühl und verbessert die Lebensqualität spürbar.
 Es macht aufmerksam für die kleinen und großen Vorzüge des Alltags und
 verändert den Blickwinkel, mit dem man durch's Leben schreitet.
 
-![Dankbarkeit: Denke nicht so oft an das, was dir fehlt, sondern an das, was du hast.]({{site.baseurl}}/assets/img/posts/dankbar.jpg)
+![Dankbarkeit: Denke nicht so oft an das, was dir fehlt, sondern an das, was du hast.]({{site.baseurl}}/assets/img/posts/mindset/dankbar.jpg)
 
 ### Tägliche Fokussierung deiner Haben-Seite
 
@@ -64,7 +64,7 @@ Beispiele:
 -   ein inspirierender Ausflug
 -   meine Gesundheit
 
-![Mache dir bewusst, dass dein Leben, deine Gesundheit und alles Positive um dich herum keine Selbstverständlichkeit ist.]({{site.baseurl}}/assets/img/posts/everyday-is-good.jpg)
+![Mache dir bewusst, dass dein Leben, deine Gesundheit und alles Positive um dich herum keine Selbstverständlichkeit ist.]({{site.baseurl}}/assets/img/posts/mindset/everyday-is-good.jpg)
 
 ### Dankbarkeit an miesen Tagen, wie geht das denn?
 

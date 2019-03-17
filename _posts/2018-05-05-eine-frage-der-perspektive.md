@@ -6,7 +6,7 @@ categories:
 tags:
 - Dankbarkeit
 - Perspektivenwechsel
-image: karl-valentin.jpg
+image: mindset/karl-valentin.jpg
 ---
 
 Egal, wie sehr wir uns bemühen, den Lauf der Dinge können wir dennoch nur
@@ -14,7 +14,7 @@ begrenzt kontrollieren. Es wird immer wieder unvorhergesehene Ereignisse in
 unserem Leben geben, die uns nicht unbedingt gefallen. Entscheidend für unsere
 Zufriedenheit ist, wie wir (langfristig) damit umgehen.
 
-![Ich freue mich, wenn es regnet, denn wenn ich mich nicht freue, regnet es auch. Karl Valentin]({{site.baseurl}}/assets/img/posts/karl-valentin.jpg)
+![Ich freue mich, wenn es regnet, denn wenn ich mich nicht freue, regnet es auch. Karl Valentin]({{site.baseurl}}/assets/img/posts/mindset/karl-valentin.jpg)
 
 ## Alles eine Frage der Perspektive
 

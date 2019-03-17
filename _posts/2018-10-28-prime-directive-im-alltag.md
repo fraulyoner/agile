@@ -5,7 +5,7 @@ categories:
 - Mindset
 tags:
 - Perspektivenwechsel
-image: nachfragen-statt-urteilen.jpg
+image: mindset/nachfragen-statt-urteilen.jpg
 ---
 
 *Was ist das bloß für ein Idiot?!* - Verbunden mit Gefühlen von
@@ -36,7 +36,7 @@ Doch die Prime Directive ist auch außerhalb dieses Rahmens eine unglaublich
 wertvolle Orientierungshilfe im Alltag – und zwar unabhängig vom beruflichen
 Hintergrund.
 
-![Nachfragen statt Urteilen]({{site.baseurl}}/assets/img/posts/nachfragen-statt-urteilen.jpg)
+![Nachfragen statt Urteilen]({{site.baseurl}}/assets/img/posts/mindset/nachfragen-statt-urteilen.jpg)
 
 ### Vermuten ist nicht Wissen
 

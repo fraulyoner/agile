@@ -5,7 +5,7 @@ categories:
 - Mindset
 tags:
 - Perspektivenwechsel
-image: nicht-ok.jpg
+image: mindset/nicht-ok.jpg
 ---
 
 *Du musst nur positiv denken, dann wird alles gut.*
@@ -27,7 +27,7 @@ kannst mit einem positiven Grundgefühl durch's Leben schreiten und
 dennoch von Zweifeln, Ängsten oder Sorgen heimgesucht werden – und das
 ist ok so.
 
-![Es ist ok, nicht ok zu sein. Negative Gefühle haben ihre Daseinsberechtigung.]({{site.baseurl}}/assets/img/posts/nicht-ok.jpg)
+![Es ist ok, nicht ok zu sein. Negative Gefühle haben ihre Daseinsberechtigung.]({{site.baseurl}}/assets/img/posts/mindset/nicht-ok.jpg)
 
 Es ist ok, wenn du traurig bist. Das bedeutet nicht, dass du schwach bist. Es
 zeigt nur, dass du ein fühlendes Wesen bist.

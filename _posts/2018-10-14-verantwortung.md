@@ -6,7 +6,7 @@ categories:
 tags:
 - Perspektivenwechsel
 - Verantwortung
-image: du-musst-nichts.jpg
+image: mindset/du-musst-nichts.jpg
 ---
 
 Beklage dich möglichst oft und laut darüber, wie schwer du es im Leben hast und
@@ -87,7 +87,7 @@ einmal zur Geburtstagsfeier deiner unausstehlichen Cousine fünften Grades, wenn
 du keinen Bock darauf hast. Du hast so gut wie immer die Wahl, etwas zu tun –
 oder es zu lassen.
 
-![Du musst gar nichts! Es liegt bei dir, ob du Verantwortung übernehmen willst oder dich weiterhin fredbestimmen lässt.]({{site.baseurl}}/assets/img/posts/du-musst-nichts.jpg)
+![Du musst gar nichts! Es liegt bei dir, ob du Verantwortung übernehmen willst oder dich weiterhin fredbestimmen lässt.]({{site.baseurl}}/assets/img/posts/mindset/du-musst-nichts.jpg)
 
 Freilich ergeben sich durch alle unsere Handlungen Konsequenzen ([Actio und
 Reactio](https://de.wikipedia.org/wiki/Actio_und_Reactio)) Dennoch bist du nur
