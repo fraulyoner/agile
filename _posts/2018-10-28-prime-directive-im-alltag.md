@@ -2,9 +2,11 @@
 layout: post
 title: Mit der Prime Directive zu einem positiven Menschenbild im Alltag
 categories:
-- Mindset
+- Haltung
 tags:
 - Perspektivenwechsel
+- Mindset
+- Prime Directive
 image: mindset/nachfragen-statt-urteilen.jpg
 ---
 
@@ -87,3 +89,6 @@ du nicht mehr ändern. Da bringt alles Ärgern und Bedauern nichts.
 Es ist sinnlos, dich für vergangene Entscheidungen runterzumachen. Selbst wenn
 du heute anders handeln könntest und würdest, zum damaligen Zeitpunkt hattest du
 eben nicht den Wissensstand und die Fähigkeiten von heute.
+
+*Anmerkung: Diesen Blog Post hatte ich bereits in ähnlicher Form auf meinem
+Blog [meinimalismus.de](https://www.meinimalismus.de/) veröffentlicht.*

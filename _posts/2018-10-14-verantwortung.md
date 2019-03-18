@@ -2,10 +2,11 @@
 layout: post
 title: Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
 categories:
-- Mindset
+- Haltung
 tags:
 - Perspektivenwechsel
 - Verantwortung
+- Mindset
 image: mindset/du-musst-nichts.jpg
 ---
 
@@ -113,3 +114,6 @@ Wenn du das nächste Mal *ich muss* sagst oder denkst, überlege dir, ob
 das wirklich der Fall ist. Vielleicht kannst du deine Aussage auch
 einfach durch ein *ich will* ersetzen. Ich sage dir aus Erfahrung, das fühlt
 sich gleich so viel besser an ;-)
+
+*Anmerkung: Diesen Blog Post hatte ich bereits in ähnlicher Form auf meinem
+Blog [meinimalismus.de](https://www.meinimalismus.de/) veröffentlicht.*

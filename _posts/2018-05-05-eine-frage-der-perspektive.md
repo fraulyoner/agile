@@ -2,10 +2,12 @@
 layout: post
 title: Wie deine Perspektive deine Zufriedenheit beeinflusst
 categories:
-- Mindset
+- Haltung
 tags:
 - Dankbarkeit
+- Verantwortung
 - Perspektivenwechsel
+- Mindset
 image: mindset/karl-valentin.jpg
 ---
 
@@ -24,8 +26,7 @@ verdeutlichen, habe ich folgendes Beispiel gewählt:
 
 **Ich habe mich auf Sonnenschein gefreut und jetzt regnet es.**
 
-Wir können uns noch so sehr über das Wetter aufregen, kontrollieren können wir
-es dennoch nicht. Wie also damit umgehen?
+Welche Möglichkeiten habe ich nun in solch einer Situation?
 
 ## Unproduktiver Lösungsansatz
 
@@ -36,7 +37,8 @@ Laune.
 ## Produktive Lösungsansätze
 
 Es gibt sinnvollere Ansätze mit schlechtem Wetter umzugehen, statt sich darüber
-zu beklagen.
+zu beklagen. Schließlich können wir uns noch so sehr über das Wetter aufregen,
+kontrollieren können wir es dennoch nicht.
 
 ### 1. Konfrontation als Chance
 
@@ -86,3 +88,6 @@ verhindern. Es bürdet eine extrem hohe persönliche Verantwortung auf, zu
 glauben, alles sei durch die eigene Einstellung kontrollierbar. Oder würdest du
 ernsthaft im Falle einer Naturkatastrophe sowas sagen/denken wie: "*Du hättest
 nur positiver denken müssen, dann wäre dir das jetzt nicht passiert.*"
+
+*Anmerkung: Diesen Blog Post hatte ich bereits in ähnlicher Form auf meinem
+Blog [meinimalismus.de](https://www.meinimalismus.de/) veröffentlicht.*

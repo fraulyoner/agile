@@ -2,10 +2,11 @@
 layout: post
 title: Wie du Dankbarkeit in deinem Leben etablierst
 categories:
-- Mindset
+- Haltung
 tags:
 - Dankbarkeit
 - Perspektivenwechsel
+- Mindset
 image: mindset/dankbar.jpg
 ---
 
@@ -105,6 +106,9 @@ stärker, wenn du deine Gedanken niederschreibst.
 ### Wofür bist du dankbar in deinem Leben?
 
 Führst du bereits ein Dankbarkeitsjournal? Wenn ja, welche Erfahrungen hast du
-damit gemacht? Wenn nein, willst du es nicht vielleicht einmal versuchen? Rücke
+damit gemacht? Wenn nein, willst du es ja vielleicht versuchen? Rücke
 die Haben-Seite ins Scheinwerferlicht deiner Gedanken und führe dir die Vorzüge
 in deinem Leben vor Augen.
+
+*Anmerkung: Diesen Blog Post hatte ich bereits in ähnlicher Form auf meinem
+Blog [meinimalismus.de](https://www.meinimalismus.de/) veröffentlicht.*

@@ -2,9 +2,10 @@
 layout: post
 title: Wieso negative Gefühle ihre positive Seite haben
 categories:
-- Mindset
+- Haltung
 tags:
 - Perspektivenwechsel
+- Mindset
 image: mindset/nicht-ok.jpg
 ---
 
@@ -46,3 +47,6 @@ vermutlich ernster nehmen solltest.
 Versuche nicht, Gefühle abzustellen, die dir *unbequem* erscheinen. Höre
 stattdessen lieber darauf, was sie dir zu sagen haben. Alle Gefühle, auch die
 (vermeintlich) negativen, haben ihre Daseinsberechtigung.
+
+*Anmerkung: Diesen Blog Post hatte ich bereits in ähnlicher Form auf meinem
+Blog [meinimalismus.de](https://www.meinimalismus.de/) veröffentlicht.*
