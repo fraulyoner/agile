@@ -5,7 +5,7 @@ title: Hi, ich bin Frau Lyoner!
 
 Hallo, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de).
 Ich bin Wortjongleur, Chaosmanager und Buchstabenmaler. Zusammen mit Ehemann und
-Tochter lebe ich im schönen [Karlsruhe](https://www.google.de/maps/place/Karlsruhe/@49.0157643,8.269451,11z/data=!4m2!3m1!1s0x47970648a2e07809:0xb6fc55734cb7ee7f).
+Tochter lebe ich im schönen Karlsruhe.
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/fraulyoner.jpg)
 
@@ -21,6 +21,6 @@ Dieser Blog dient mir in erster Linie als wertvolles Logbuch, um Erkenntnisse,
 Lessons Learned und persönliche Gedanken festzuhalten, die ich im Laufe meiner
 Reise zum Agilen Coach sammle. Es wäre mir jedoch eine große Freude, wenn auch
 andere Menschen etwas aus meinen subjektiven Erfahrungsberichten und
-Gedankenanstößen ziehen könnten.
+Gedankenanstößen ziehen können.
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/signatur.png){:class="signatur"}
