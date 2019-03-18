@@ -26,6 +26,6 @@ Gedankenanstößen profitieren könnten.
 Wichtiger Hinweis: Dies ist mein persönlicher Blog, auf dem ich frei und offen
 meine Gedanken äußere. Die hier veröffentlichten Blog Posts mögen sich zwar teilweise
 um meine Arbeit drehen, sie spiegeln jedoch nur meine persönliche Meinung wider und
-nicht zwangsläufig mit der Meinung meines Arbeitgebers verbunden.
+sind nicht zwangsläufig mit der Meinung meines Arbeitgebers verbunden.
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/signatur.png){:class="signatur"}
