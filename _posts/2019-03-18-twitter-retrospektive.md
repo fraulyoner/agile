@@ -9,7 +9,7 @@ tags:
 ---
 
 Meine erste Retrospektive fand in einem nicht-technischen, Social-Media-affinen
-Team statt, weshalb ich mich schnell für eine leicht abgewandelte Form der
+Team statt, weshalb ich mich für eine leicht abgewandelte Form der
 Twitter-Retro ([#97 im Retromaten](https://retromat.org/de/?id=97)) entschieden
 habe.
 
@@ -34,7 +34,7 @@ kennt man seine Pappenheimer ganz gut und weiß, welche Themen man lieber
 vermeidet.
 
 Für den Fall, dass einem Teilnehmer überhaupt kein Kartenmotiv zusagt, habe ich
-blanko Karteikarten in Postkartenformat mit Finelinern ausgelegt, sodass die
+blanko Karteikarten im Postkartenformat mit Finelinern ausgelegt, sodass die
 Möglichkeit bestand, sich selbst eine Postkarte zu illustrieren.
 
 ## Tweet your iteration
@@ -59,7 +59,7 @@ Anhand von Hashtags habe ich vier Kategorien zur Sammlung von Daten vorgegeben:
 - #bäm – Was lief gut
 - #wtf – Was lief nicht so gut
 - #thankful – Wofür war ich dankbar
-- #other – Für den Fall, etwas komplett anderes loswerden zu wollen
+- #other – Ich möchte etwas völlig anderes loswerden
 
 Nur um sicherzugehen, habe ich betont, dass sich ein Tweet zwar durch eine
 begrenzte Zeichenanzahl auszeichnet, aber doch bitte niemand Zeichen zählen
