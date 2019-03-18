@@ -15,7 +15,7 @@ tätig. Begonnen habe ich dort als Auszubildende für Fachinformatik und habe na
 abgeschlossener Ausbildung als Softwareentwicklerin hauptsächlich im Bereich der
 Webentwicklung unterschiedliche Projekte durchlaufen. Nach zwei Jahren
 Elternzeit wurde mir bewusst, dass ich mich beruflich umorientieren möchte. Daher bin ich
-nun seit Anfang diesen Jahres als Scrum Master (in spe) unterwegs.
+nun seit Anfang 2019 als Scrum Master (in spe) unterwegs.
 
 Dieser Blog dient mir in erster Linie als wertvolles Logbuch, um Erkenntnisse,
 Lessons Learned und persönliche Gedanken festzuhalten, die ich im Laufe meiner
