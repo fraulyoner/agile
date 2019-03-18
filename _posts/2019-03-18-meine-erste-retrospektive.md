@@ -20,7 +20,7 @@ Vormittag über und ich fühle mich, als stünde ich vor der wichtigsten Prüfun
 meines Lebens bzw. der alles entscheidenden Weggabelung, die über meine weitere
 Zukunft entscheidet. Mein perfektionistischer Anspruch an mich selbst bereitet
 mir enormen Stress. Ich möchte unbedingt alles richtig machen, zumal einer
-meiner Chefs als Product Owner des Teams bei der Retrospektive teilnimmt. Ich
+meiner Chefs als Product Owner des Teams an der Retrospektive teilnimmt. Ich
 habe das Gefühl, mir nicht den kleinsten Patzer erlauben zu dürfen, obwohl mir
 bereits zu dem Zeitpunkt rational bewusst ist, was für eine schwachsinnige
 Einstellung das ist, zumal die Teilnehmer mir gegenüber überaus wohlgesonnen
@@ -51,7 +51,7 @@ Moderator völlig zu versagen bzw. absolut inkompetent zu sein. In meinem Kopf
 flüstert eine Stimme:
 
 > “Schmink dir das mit der Scrum Masterei ab. Das wird nix mehr. Nun
-haben alle meine Inkompetenz als Beweis auf dem Silbertablett geliefert
+haben alle deine Inkompetenz als Beweis auf dem Silbertablett geliefert
 bekommen.”
 
 ## Überraschendes Feedback
@@ -82,16 +82,16 @@ sehr ich lernen will, wie ich mich in diesem Aufgabenbereich verbessern kann.
 ## Rückblickend betrachtet...
 
 Wenn ich heute an diese Retrospektive zurückdenke, muss ich ein wenig über mich
-selbst lächeln. Zwar kann ich auch momentan bloß auf einen sehr begrenzten
+selbst lächeln. Zwar kann ich auch jetzt bloß auf einen sehr begrenzten
 Erfahrungsschatz zurückblicken, doch habe ich mittlerweile zumindest mehrere
 Retrospektiven und Workshops hinter mir und weiß inzwischen: Alles bloß eine
 Sache der Übung!
 
-Ich bin froh, damals diese Hürde trotz riesiger Angst genommen zu haben und mich
+Ich bin froh, damals diese Hürde trotz immenser Angst genommen zu haben und mich
 unter Selbstzwang an den Rand meiner Komfortzone begeben zu haben. Denn mit
 jedem Mal spüre ich weniger Aufregung und umso mehr Begeisterung. Es macht
 einfach Spaß zu beobachten, was die Teilnehmer aus dem machen, was man sich
-vorher so als potentiell geeignetes Format zusammenreimt. Und wenn die
+vorher so als potentiell geeignetes Format zusammengereimt hat. Und wenn die
 Teilnehmer dann noch das Meeting verlassen mit dem Feedback, dass sie die Zeit
 als wirklich wertvoll empfunden haben, dann ist das einfach ein unglaublich
 gutes Gefühl, das mich anspornt, weiterzumachen.
