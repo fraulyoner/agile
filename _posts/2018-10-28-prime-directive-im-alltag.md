@@ -10,17 +10,10 @@ tags:
 image: mindset/nachfragen-statt-urteilen.jpg
 ---
 
-*Was ist das bloß für ein Idiot?!* - Verbunden mit Gefühlen von
-Ärger habe ich mir diese Frage leider schon häufiger gestellt. Seit
+*Was ist das bloß für ein Idiot?!* - Kennst du solche Gedanken auch? Seit
 längerer Zeit versuche ich konsequent, wenn auch nicht immer ganz so
-erfolgreich, solche verurteilenden Gedanken zu vermeiden. Warum? Weil es
-schlicht und ergreifend nichts bringt, außer Ärger bei mir selbst zu
-verursachen.
-
-Kennst du solche Gedanken auch? Wie geht es dir damit? Wenn du möchtest,
-gebe ich dir im Folgenden einige Gedankenanstöße, um deine Mitmenschen
-hoffentlich weniger verurteilend zu betrachten und dadurch ärgerliche
-Gefühle bei dir selbst zu mindern.
+erfolgreich, solche Gedanken zu vermeiden. Warum? Weil es schlicht und
+ergreifend nichts bringt, außer Ärger bei mir selbst zu verursachen.
 
 ## Die Prime Directive im Alltag
 
@@ -71,12 +64,12 @@ ersetzen.
 
 Natürlich fällt es bei manchen Menschen schwerer als bei anderen, in einen
 Dialog zu treten. Genau hier kommt die Prime Directive ins Spiel. Es ist
-hilfreich, sich vor Augen zu halten, dass ein Mensch, der sich salopp gesagt
-vielleicht gerade wie ein Arschloch verhält, zum aktuellen Zeitpunkt mit seinem
-Hintergrund und dem ihm zur Verfügung stehenden Ressourcen eben gar nicht anders
-kann, als so zu (re-)agieren. Mit dieser Haltung fällt es deutlich leichter,
-denjenigen konstruktiv auf sein Verhalten anzusprechen und im besten Fall
-(potentielle) Konflikte zu beseitigen. Doch selbst wenn dies nicht gelingt,
+hilfreich, sich vor Augen zu halten, dass ein Mensch, der sich salopp
+ausgedrückt vielleicht gerade wie ein Arschloch verhält, zum aktuellen Zeitpunkt
+mit seinem Hintergrund und dem ihm zur Verfügung stehenden Ressourcen eben gar
+nicht anders kann, als so zu (re-)agieren. Mit dieser Haltung fällt es deutlich
+leichter, denjenigen konstruktiv auf sein Verhalten anzusprechen und im besten
+Fall (potentielle) Konflikte zu beseitigen. Doch selbst wenn dies nicht gelingt,
 unterstützt dich diese Haltung zumindest dabei, emotional besser mit
 aufziehendem Ärger umzugehen. Ist das nicht ziemlich cool?
 
