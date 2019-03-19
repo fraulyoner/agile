@@ -2,7 +2,7 @@
 layout: post
 title: Mit der Prime Directive zu einem positiven Menschenbild im Alltag
 categories:
-- Haltung
+- Mindset
 tags:
 - Perspektivenwechsel
 - Mindset
