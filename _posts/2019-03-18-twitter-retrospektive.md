@@ -4,7 +4,7 @@ title: Retrospektive – Tweet your iteration
 categories:
 - Retrospektive
 tags:
-- Selbstreflektion
+- Erfahrungsbericht
 - Retrospektive
 ---
 

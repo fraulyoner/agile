@@ -4,7 +4,8 @@ title: Meine erste Retrospektive – Wenn Fremd- und Eigenwahrnehmung divergiere
 categories:
 - Logbuch
 tags:
-- Selbstreflektion
+- Erfahrungsbericht
+- Einblicke
 - Retrospektive
 ---
 

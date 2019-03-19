@@ -4,7 +4,6 @@ title: Wie deine Perspektive deine Zufriedenheit beeinflusst
 categories:
 - Haltung
 tags:
-- Dankbarkeit
 - Verantwortung
 - Perspektivenwechsel
 - Mindset
