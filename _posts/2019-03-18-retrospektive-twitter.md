@@ -13,7 +13,7 @@ weshalb ich mich für eine leicht abgewandelte Form der
 Twitter-Retro ([#97 im Retromaten](https://retromat.org/de/?id=97)) entschieden
 habe.
 
-## Einstieg
+## Einstieg: Sag's mit einem Bild
 
 Als Einstieg habe ich eine Reihe an unterschiedlichen Postkarten ausgelegt.
 ([#42 im Retromaten](https://retromat.org/de/?id=42))
@@ -40,7 +40,7 @@ Für den Fall, dass einem Teilnehmer überhaupt kein Kartenmotiv zusagen sollte,
 habe ich blanko Karteikarten im Postkartenformat ausgelegt, sodass die
 Möglichkeit bestand, sich selbst eine Postkarte zu illustrieren.
 
-## Tweet your iteration
+## Daten: Tweet your iteration
 
 Nun ging es ans Daten sammeln – und zwar in Form von Tweets. Als Gedankenstütze
 habe ich anhand eines Flipcharts die typischen Charakteristika eines Tweets
