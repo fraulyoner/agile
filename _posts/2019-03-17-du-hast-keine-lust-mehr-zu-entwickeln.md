@@ -5,7 +5,6 @@ categories:
 - Logbuch
 tags:
 - Erfahrungsbericht
-- Einblicke
 ---
 
 Mit dieser Frage wurde ich in den letzten Monaten mehrfach konfrontiert. Und

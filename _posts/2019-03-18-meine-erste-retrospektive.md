@@ -5,7 +5,6 @@ categories:
 - Logbuch
 tags:
 - Erfahrungsbericht
-- Einblicke
 - Retrospektive
 ---
 
