@@ -9,11 +9,12 @@ tags:
 - Lean Coffee
 ---
 
-Als Übungseinheit für mich als Neuling bekam ich die Gelegenheit, eine
-Retrospektive in einem Team zu leiten, dessen Scrum Master in Urlaub war.
-In unserem Unternehmen ist normalerweise eine Dauer von 90 Minuten bei einem
-Rhythmus von zwei Wochen üblich für Retrospektiven. Aufgrund von Projektdruck
-wünschte sich das Team jedoch explizit eine kurze Retrospektive.
+Am 21. Februar 2019 bekam ich die Gelegenheit, meine dritte Retrospektive zu
+leiten. Der Scrum Master des betreffenden Teams war im Urlaub und ich als
+Neuling durfte eine Übungseinheit in Sachen Teamcoaching einlegen. Bei uns ist
+normalerweise eine Dauer von 90 Minuten bei einem Rhythmus von zwei Wochen
+üblich für Retrospektiven. Aufgrund von Projektdruck wünschte sich das Team
+jedoch explizit eine kurze Retrospektive.
 
 Die Aussage lautete in etwa wie folgt:
 
