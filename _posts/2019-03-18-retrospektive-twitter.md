@@ -8,10 +8,9 @@ tags:
 - Retrospektive
 ---
 
-Meine erste Retrospektive fand in einem Social-Media-affinen Team statt,
-weshalb ich mich für eine leicht abgewandelte Form der
-Twitter-Retro ([#97 im Retromaten](https://retromat.org/de/?id=97)) entschieden
-habe.
+[Meine erste Retrospektive]({{ site.baseurl }}{% link _posts/2019-03-18-meine-erste-retrospektive.md %}) fand in einem Social-Media-affinen Team statt, weshalb ich mich für eine
+leicht abgewandelte Form der Twitter-Retro ([#97 im Retromaten](https://retromat.org/de/?id=97))
+entschieden habe.
 
 ## Einstieg: Sag's mit einem Bild
 
