@@ -25,8 +25,6 @@ Uhlandstr. 39\\
 
 E-Mail: [{{ site.theme_settings.email_address }}](mailto:{{ site.theme_settings.email_address }})
 
-Impressum: [{{ site.url }}/impressum.html]({{ site.baseurl }}/impressum.html)
-
 ### Arten der verarbeiteten Daten {#dsg-general-datatype}
 
 - Bestandsdaten (z.B. Personen-Stammdaten, Namen oder Adressen).
