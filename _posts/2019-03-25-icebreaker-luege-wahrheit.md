@@ -27,25 +27,25 @@ Ich esse gerne Rosenkohl und mag deutschen HipHop.
 
 ### Fallstrick-Vermeidung
 
-Je besser man die Teilnehmer der Runde bereits kennt, desto schwieriger kann es
-sein, eine Aussage zu finden, die nicht allzu offensichtlich ist. Gleichzeitig
-möchte man aber erfahrungsgemäß auch nicht allzu persönliche Dinge von sich
-preisgeben.
+Je besser sich die Teilnehmer der Runde bereits kennen, desto schwieriger kann
+die Aufgabe erscheinen. Denn einerseits möchte man eine Aussage finden, die
+nicht allzu offensichtlich ist, andererseits möchte man erfahrungsgemäß aber
+auch nicht allzu persönliche Dinge preisgeben.
 
-Als Moderator ist es daher sinnvoll Beispiele für Themengebiete vorzuschlagen:
+Als Moderator kann es daher hilfreich sein, Vorschläge für mögliche
+Themengebiete aufzuzählen:
 * Essensvorlieben oder -abneigungen
 * Freizeitliche Aktivitäten
 * Arten von Musik, Büchern, Filmen, die man mag oder eben nicht mag
 * Witzige Fakten oder kleine Geschichten über sich selbst, die andere vielleicht
   nicht unbedingt erwarten würden
 
-Außerdem sollte man die Teilnehmer ermuntern, aus dem Bauch heraus zu
+Außerdem sollte man die Teilnehmer ermuntern, möglichst aus dem Bauch heraus zu
 entscheiden und sich nicht allzu sehr den Kopf zu zerbrechen. Es muss gar nicht
-sooo ausgefallen sein. Aus meiner Erfahrung als Teilnehmer heraus kann ich
-sagen: Oft ist es für die anderen gar nicht so offensichtlich, wie man selbst
-denkt.
+sooo ausgefallen sein. Oft ist es für die anderen gar nicht so offensichtlich,
+wie man selbst denkt. So ist jedenfalls meine persönliche Erfahrung.
 
-Sollte einem Teilnehmer wirklich nichts einfallen, dann ist das eben so. Es kann
-helfen, einfach anzufangen. Vielleicht fällt demjenigen im Laufe der Runden bzw.
-nachdem alle anderen an der Reihe waren, noch eine Aussage ein. Wenn nicht, ist
-das auch nicht schlimm. Mitraten macht auch Spaß.
+Sollte einem Teilnehmer wirklich gar nichts einfallen, dann ist das eben so.
+Vielleicht kommt demjenigen noch zum Ende hin eine Idee, sobald alle anderen an
+der Reihe waren. Und wenn nicht, ist das auch nicht schlimm. Mitraten macht auch
+Spaß.
