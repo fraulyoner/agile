@@ -8,28 +8,28 @@ tags:
 - Retrospektive
 ---
 
-Und dann hatte ich plötzlich ein kleines, aber feines Team und durfte am 29.
-März 2019 die erste Retrospektive leiten.
+...und dann hatte ich plötzlich ein kleines, aber feines Team und durfte am 29.
+März 2019 die erste Retrospektive in diesem Team leiten.
 
-Nach meinen bisherigen Übungseinheiten in Sachen Retrospektive mit für mich eher
-ungewohnten/außergewöhnlichen Formaten hatte ich Lust, endlich ein klassisches
-Format auszuprobieren, mit dem ich in meinem früheren Leben als
-Softwareentwickler bereits Erfahrungen als Teilnehmer gesammelt hatte.
+Nach meinen bisherigen Übungseinheiten in Sachen Retrospektive mit eher
+ungewohnten/außergewöhnlichen Formaten hatte ich Lust, endlich ein eher
+klassisches Format auszuprobieren, mit dem ich in meinem früheren Leben als
+Softwareentwickler bereits Erfahrungen gesammelt hatte.
 
 ## Einstieg: Prime Directive
 
-Da es sich um die erste Retrospektive des Teams handelte, habe ich zum Einstieg
-[Norman Kerth's Prime Directive](http://retrospectivewiki.org/index.php?title=The_Prime_Directive)
-auf einem Flipchart vorbereitet:
+Da es sich um die erste Retrospektive in der vorliegenden Team-Zusammensetzung
+handelte, habe ich zum Einstieg die auf einem Flipchart visualisierte
+[Prime Directive von Norman Kerth](http://retrospectivewiki.org/index.php?title=The_Prime_Directive)
+verlesen:
 
 [![Prime Directive von Norman Kerth]({{site.baseurl}}/assets/img/posts/flipcharts/prime_directive.jpg)]({{site.baseurl}}/assets/img/posts/flipcharts/prime_directive.jpg)
 
-Um das Verlesene zu verdeutlichen, habe ich den Inhalt kurz zusammengefasst mit
-den Worten, dass wir von guten Absichten ausgehen wollen und unseren Fokus
-folgendermaßen legen sollten:
+Um die eher abstrakte Wortwahl des Verlesenen zu verdeutlichen, habe ich den
+Inhalt noch kurz in meinen eigenen Worten wiedergegeben:
 
-* **Nicht:** Wer ist schuld?
-* **Sondern:** Was können wir aus vergangenen Fehlern lernen?
+> Wir wollen von guten Absichten ausgehen und nicht fragen "Wer ist schuld",
+sondern "Was können wir aus vergangenen Fehlern lernen?"
 
 ### Lessons Learned
 
@@ -38,78 +38,109 @@ Wenige Minuten vor Beginn der Retrospektive, kam mir siedend heiß noch die
 
 > What happens in Vegas, stays in Vegas.
 
-Ich habe diese dann zwar noch erwähnt, jedoch hätte ich eventuell auch dafür
-ein Flipchart vorbereiten sollen, damit die Vegas Regel nicht neben der Prime
-Directive untergeht. Denn letztlich ist Vertraulichkeit und einen Schutzraum zu
-ermöglichen, entscheidend für eine Retrospektive.
+Ich habe diese dann zwar noch beim Einstieg erwähnt, jedoch hätte ich eventuell
+auch dafür eine Visualisierung vorbereiten sollen, damit diese genauso präsent
+ist wie die Prime Directive. Denn schließlich ist Vertraulichkeit ein ganz
+entscheidender Faktor für das Gelingen einer Retrospektive.
 
 ## Daten: Learning Matrix
 
-Zum Daten sammeln hatte ich das Format Learning Matrix vorbereitet:
-
-* Was ist gut gelaufen? Was ist euch gut gelungen?
-* Was ist schief gelaufen? Worüber habt ihr euch geärgert?
-* Wollt ihr euch bei jemandem bedanken, egal ob bei jemandem hier in der Runde
-  oder bei jemandem außerhalb? Oder gibt es Umstände, für die ihr dankbar seid?
-* Habt ihr Ideen oder ganz konkrete Vorschläge, die ihr gerne ausprobieren
-  würdet?
+Zum Daten sammeln habe ich das Format [Learning Matrix](https://retromat.org/de/?id=9)
+vorbereitet:
 
 [![Retrospektive Format: Learning Matrix]({{site.baseurl}}/assets/img/posts/flipcharts/learning_matrix.jpg)]({{site.baseurl}}/assets/img/posts/flipcharts/learning_matrix.jpg)
 
+* Juhu: Was ist gut gelaufen? Was ist euch gut gelungen?
+* Oh: Was ist schief gelaufen? Worüber habt ihr euch geärgert?
+* Danke: Wollt ihr euch bei jemandem bedanken, egal ob bei jemandem hier in der
+  Runde oder bei jemandem außerhalb? Gibt es Umstände, für die ihr dankbar seid?
+* Idee: Habt ihr Ideen oder ganz konkrete Vorschläge, die ihr gerne ausprobieren
+  würdet?
+
 ### Lessons Learned
 
-Ich habe die Teilnehmer fünf Minuten direkt für alle Felder Themen sammeln
-lassen. Ich war überrascht, dass die fünf Minuten gereicht haben und keine
-Verlängerung gewünscht wurde. Bei gleich vier Feldern hätte ich mit mehr
-Zeitwunsch gerechnet.
+Ich habe die Teilnehmer direkt für alle vier Felder Themen sammeln lassen und
+bewusst keine Zeitangabe gemacht, sondern abgewartet, wie lange die Schreibflut
+anhält. Eigentlich hatte ich mich darauf eingestellt, nach fünf Minuten weitere
+fünf Minuten anzubieten, die bestimmt erforderlich wären. Ich war recht
+überrascht, als nach ziemlich exakt fünf Minuten niemand mehr schrieb und auch
+keine Verlängerung gewünscht war.
 
-Richtig toll fand ich, dass alle Teilnehmer die vier Felder ausgewogen genutzt
-haben, also nicht ein Feld übermäßig genutzt wurde. Somit hat auch wirklich
-jeder das Dankbarkeitsfeld genutzt, was schön deutlich gezeigt hat, wie positiv
-die Stimmung bei der Zusammenarbeit empfunden wird.
+Ich fand es sehr spannend, dass alle Teilnehmer mindestens einen Beitrag pro
+Feld zu leisten hatten, wodurch also alle vier Felder ausgewogen gefüllt waren
+und der Fokus nicht nur auf dem Negativfeld lag. Somit hat auch wirklich jeder
+Teilnehmer mindestens ein Dankeschön ausgesprochen, was schön gezeigt hat, wie
+positiv Zusammenarbeit und Stimmung empfunden werden. Ich habe mich ein wenig
+über mich selbst geärgert, dass mir das erst im Nachhinein so konkret
+aufgefallen ist und ich daher dem Team diesen Eindruck nicht direkt in der
+Retrospektive geschildert habe. Ich habe mir vorgenommen, das unbedingt noch
+nachzuholen.
 
-Auch wenn nicht viele Post-its beim Negativfeld gelandet sind, habe ich vor dem
-Dot-Voting, über welche Themen die verbleibende Zeit gesprochen werden sollte,
-betont, dass wir nicht zwangsläufig über Probleme sprechen müssen, sondern dass
-es auch sinnvoll sein kann, über die Dinge, die gut funktionieren oder als
-positiv empfunden werden, zu sprechen. Ich habe dann noch aus den Grundsätzen
-der Lösungsfokussierung nach De Shazer zitiert:
+Auch wenn nicht viele Post-its im Negativfeld gelandet sind, habe ich vor dem
+Dot-Voting, über welche Themen in der verbleibenden Zeit gesprochen werden
+sollte, betont, dass wir nicht zwangsläufig über Probleme sprechen müssen,
+sondern es auch sinnvoll sein kann, über Dinge zu sprechen, die gut
+funktionieren. Ich habe dabei die Grundsätze der Lösungsfokussierung nach
+De Shazer herangezogen:
 
 * Wenn etwas gut funktioniert, tue mehr davon.
 * Wenn etwas nicht funktioniert, tue etwas Anderes.
 
-Es war interessant, dass das höchst gevotete Thema zwar aus dem Negativfeld kam,
-aber ansonsten auch Dots auf Themen aller anderer Felder zu finden waren.
+Zugegebenermaßen habe ich mich innerlich gefreut, dass dies tatsächlich
+Beachtung fand. Zwar kam das höchst gevotete Thema aus dem Negativfeld, aber
+dennoch wurden einige Dots auch auf Themen anderer Felder verteilt.
 
-## Feedback: Schnelle Skala
+## Feedback: Skala im Schnellschuss
 
-Ich wollte die Teilnehmer nicht zu lange aufhalten, um Feedback einzufordern und
-dachte, ich kritzle einfach ganz kurz eine kleine Skala hin. Jedoch wusste ich
-am Ende nicht, was ich mit dieser rein quantitativen Skala anfangen soll. Ich
-denke, ich würde nächstes Mal doch eher in eine ausführlichere Richtung gehen
-und lieber fragen:
-
-* Was hat euch gut gefallen, was hättet ihr euch anders gewünscht? (+ und delta)
-* Auf einer Skala von 1-10, wie ordnet ihr die Retro ein und woran hat es gefehlt,
-  damit es eher in Richtung 10 geht?
+Warum auch immer hatte ich mich dieses Mal nicht wirklich damit
+auseinandergesetzt, wie ich die Retrospektive beenden möchte. Kurz vor Beginn
+habe ich dann noch spontan als Schnellschuss eine kleine Skala ans Whiteboard
+gekritzelt, um am Ende ein schnelles Feedback zu bekommen: Von 0% bis 100% – Wie
+war die Retrospektive für euch?
 
 ### Lessons Learned
 
-Super interessant fand ich die Aussage von einem Mitglied, ob sie sich nächstes
-Mal besser auf eine Retro vorbereiten könnten. Das hat für mich von sehr hoher
-Eigenverantwortung gezeugt. Dass die Qualität einer Retro eben von allen
-Beteiligten abhängt. Das hat mich beeindruckt und ich werde darüber nachdenken,
-wie ich das Team dabei unterstützen kann, sich auf die Retro vorbereiten zu
-können.
+Ich habe gemerkt, dass die platzierten Markierungen auf der sehr offen
+gehaltenen Skala im Gegensatz zum [ROTI Feedback]({{ site.baseurl }}{% link _posts/2019-03-19-feedback-roti-skala-return-on-time-invested.md %}) keine wirkliche Aussagekraft
+bzw. Mehrwert für mich hatten. Deutlich wertvoller waren da die Kommentare, die
+im Anschluss an die Retrospektive kamen. Zumal die Teamgröße sehr überschaubar
+ist, würde ich im Zukunft lieber auf eine rein quantitative Bewertung verzichten
+und eher auf ein kurzes, mündliches Feedback setzen bzw. die Skalierung
+konkretisieren.
 
-Beim Abschluss hatte ich erneut die Schwierigkeit, dass die Leute nicht
-rausgehen wollten bzw. sich unsicher schienen, ob sie gehen können. Ich muss mir
-noch klar werden, wie ich gut einen klaren Cut hinbekommen kann. Vielleicht
-sollte ich demonstrativ die Tür öffnen oder so.
+Beispiele:
+
+* Kurzes [Plus und Delta](https://retromat.org/de/?id=40): Was hat euch an
+  der Retrospektive gut gefallen? Was hättet ihr gerne anders gehabt/gemacht?
+* Kurzes [Perfection Game](https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/): Auf einer Skala von 1-10, wobei 10 die perfekte Retrospektive darstellt,
+  wie ordnet ihr die heutige Retrospektive ein? Was hat euch an der
+  Retrospektive gut gefallen und was hat euch für eine 10 gefehlt?
+* [Retro Dart](https://retromat.org/de/?id=83): Quantitative Bewertung von
+  qualitativen Aussagen, z.B. "Haben wir die wichtigsten Punkte angesprochen?"
+
+Neben der Problematik mit dem Feedback ist mir bei dieser Retrospektive erneut
+gefühlt kein guter Cut gelungen. Ich habe zum wiederholten Male die Erfahrung
+gemacht, dass Teilnehmer im Raum geblieben sind, fast als ob sie sich nicht
+trauen würden, zu gehen. Selbst wenn ich konkret betont habe, das Programm sei
+abgeschlossen, wurde der Raum teilweise nur zögerlich verlassen bzw. sich noch
+über andere Themen (fachlicher/technischer Natur) ausgetauscht – was für mich
+aber durchaus nicht uninteressant war, beim Aufräumen von Flipcharts und Co. mit
+einem Ohr zu lauschen.
+
+Vielleicht könnte ich beim nächsten Mal versuchen, ganz demonstrativ die Tür zu
+öffnen. Vielleicht mache ich mir aber auch zu viele Gedanken und es ist gar
+nicht als potentiell negativ anzusehen, wenn Teilnehmer nicht sofort wegrennen,
+sondern die Chance des Zusammeinseins nutzen, um sich noch auszutauschen.
 
 ## Fazit
 
-Ich mag das klassische Format der Learning Matrix. Es ist leicht zu verstehen
-und besonders gefällt mir daran, dass Dankbarkeit ausgedrückt werden kann und
-bereits Ideen geäußert werden können, also bereits beim Daten sammeln ein Blick
-in die Zukunft passiert und eine Lösungsorientierung fokussiert wird.
+Ich bin durchaus ein kleines Fangirl des Learning Matrix Formates. Es ist meiner
+Meinung nach leicht zu verstehen, selbst für Personen mit wenig
+Retrospektivenerfahrung, und was mir besonders gut an dem Format gefällt ist die
+relativ geringe Gewichtung des Negativfelds. Allein schon von der räumlichen
+Verteilung her nimmt das Negativfeld eben nur 1/4 des Platzes ein und ermöglicht
+bei 3/4 des Platzes einen anders gerichteten Blickwinkel. Bei manchen Teams kann
+es vielleicht sinnvoll sein, eine Mindest-/Maximalzahl an Beiträgen pro Feld
+vorzugeben, um ein Übergewicht des Negativfelds zu vermeiden. Wobei es
+sicherlich auch ein interessanter und besprechenswerter Aspekt sein kann, wenn
+das Negativfeld durch einen/mehrere/alle Teilnehmer ein Übergewicht erhält.
