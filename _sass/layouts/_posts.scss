@@ -89,8 +89,7 @@ header {
 
 .post-content img {
   border: 1px solid $post-image-border-color;
-  //width: $post-image-width;
-  height: $post-image-height;
+  width: $post-image-width;
 }
 
 .post-content img.signatur {
