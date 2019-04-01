@@ -49,12 +49,15 @@ vorbereitet:
 
 [![Retrospektive Format: Learning Matrix]({{site.baseurl}}/assets/img/posts/flipcharts/learning_matrix.jpg)]({{site.baseurl}}/assets/img/posts/flipcharts/learning_matrix.jpg)
 
-* **Juhu:** Was ist gut gelaufen? Was ist euch gut gelungen?
-* **Oh:** Was ist schief gelaufen? Worüber habt ihr euch geärgert?
-* **Danke:** Wollt ihr euch bei jemandem bedanken, egal ob bei jemandem hier in
+**Juhu:** Was ist gut gelaufen? Was ist euch gut gelungen?
+
+**Oh:** Was ist schief gelaufen? Worüber habt ihr euch geärgert?
+
+**Danke:** Wollt ihr euch bei jemandem bedanken, egal ob bei jemandem hier in
   der Runde oder bei jemandem außerhalb? Gibt es Umstände, für die ihr dankbar
   seid?
-* **Idee:** Habt ihr Ideen oder ganz konkrete Vorschläge, die ihr gerne
+
+**Idee:** Habt ihr Ideen oder ganz konkrete Vorschläge, die ihr gerne
   ausprobieren würdet?
 
 ### Lessons Learned
@@ -129,7 +132,7 @@ Flipcharts und Co.
 Vielleicht könnte ich beim nächsten Mal versuchen, ganz demonstrativ die Tür zu
 öffnen. Vielleicht mache ich mir aber auch zu viele Gedanken und es ist gar
 nicht als potentiell negativ anzusehen, wenn Teilnehmer nicht sofort wegrennen,
-sondern die Chance des Zusammeinseins nutzen, um sich noch auszutauschen.
+sondern die Chance des Zusammenseins nutzen, um sich noch auszutauschen.
 
 ## Fazit
 
