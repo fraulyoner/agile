@@ -22,6 +22,14 @@
 </li>
 {% endif %}
 
+{% if site.theme_settings.xing %}
+<li>
+	<a href="https://www.xing.com/profile/{{ site.theme_settings.xing }}/cv" title="Vernetze dich mit mir auf Xing">
+		<i class="fa fa-fw fa-xing"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme_settings.email_address %}
 <li>
 	<a href="{{ site.baseurl }}/contact.html" title="Kontakt aufnehmen">
