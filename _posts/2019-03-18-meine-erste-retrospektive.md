@@ -10,7 +10,7 @@ Umorientierung zu festigen, darf ich meine erste Retrospektive leiten. Als
 Teilnehmer habe ich bereits etliche Retrospektiven miterlebt, jedoch ist es eine
 gänzlich andere Situation, plötzlich den Moderator zu mimen.
 
-# Die Aufregung vor dem Sturm
+## Die Aufregung vor dem Sturm
 
 Die Nacht zuvor kriege ich kaum ein Auge zu, mein Magen rebelliert den ganzen
 Vormittag über und ich fühle mich, als stünde ich vor der wichtigsten Prüfung
