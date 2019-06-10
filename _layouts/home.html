@@ -12,25 +12,7 @@ layout: default
 
   <div class="posts">
     {% for post in paginator.posts %}
-    <div class="post-teaser">
-      <header>
-        <h1>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title }}
-          </a>
-        </h1>
-        <p class="meta">
-          {% include date.html postDate=post.date %}
-          {% include tags_list.html tags=post.tags %}
-        </p>
-      </header>
-      <div class="excerpt">
-        {{ post.excerpt }}
-        <a class="button" href="{{ post.url | relative_url }}">
-          Weiterlesen
-        </a>
-      </div>
-    </div>
+    {% include post_teaser.html post=post %}
     {% endfor %}
   </div>
 

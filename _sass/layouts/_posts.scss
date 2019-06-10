@@ -41,7 +41,7 @@ article {
     margin: 0;
   }
   header {
-    margin-bottom: 6%;
+    margin-bottom: 2.5%;
     text-align: left;
   }
   a {
@@ -53,7 +53,7 @@ article {
 }
 header {
   h1 {
-    margin: 0;
+    margin-top: 0;
   }
 }
 .meta {
@@ -89,7 +89,8 @@ header {
 
 .post-content img {
   border: 1px solid $post-image-border-color;
-  width: $post-image-width;
+  //width: $post-image-width;
+  height: $post-image-height;
 }
 
 .post-content img.signatur {
@@ -97,4 +98,54 @@ header {
   width: $post-image-width;
   height: auto;
   max-width: 100%;
+}
+
+.post-content img.avatar {
+  border: none;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  float: right;
+  margin: 0 0.5em 0.5em 0.5em;
+  @media (min-width: $device-xs) {
+    float: left;
+    margin: 0 1.25em 1em 1em;
+  }
+}
+
+.post-content img.about {
+  @media (min-width: $device-xs) {
+    float: right;
+    margin: 0 1em 1em 1em;
+  }
+}
+
+.post-teaser header h2 {
+  margin: 0;
+}
+
+.post-teaser img {
+  border: 1px solid $post-image-border-color;
+  @media (max-width: $device-xs) {
+    max-width: $post-image-width;
+  }
+}
+
+.excerpt {
+  a.button {
+    margin: 0;
+  }
+}
+
+@media (min-width: $device-xs) {
+  .excerpt {
+    display: table;
+
+    img + .excerpt-text {
+      display: table-cell;
+      padding-left: 1.25em;
+      vertical-align: top;
+      width: 70%;
+    }
+  }
 }

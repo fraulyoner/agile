@@ -7,6 +7,7 @@ tags:
 - Erfahrungsbericht
 - Retrospektive
 - Lean Coffee
+image: flipcharts/lean_coffee.jpg
 ---
 
 Am 21. Februar 2019 bekam ich die Gelegenheit, meine dritte Retrospektive zu

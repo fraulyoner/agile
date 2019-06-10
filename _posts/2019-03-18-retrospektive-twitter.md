@@ -6,6 +6,7 @@ categories:
 tags:
 - Erfahrungsbericht
 - Retrospektive
+image: flipcharts/retro-twitter.jpg
 ---
 
 [Meine erste Retrospektive]({{ site.baseurl }}{% link _posts/2019-03-18-meine-erste-retrospektive.md %}) fand in einem Social-Media-affinen Team statt, weshalb ich mich für eine

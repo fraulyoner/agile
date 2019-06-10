@@ -7,6 +7,7 @@ tags:
 - Erfahrungsbericht
 - Retrospektive
 - Metapher
+image: flipcharts/superhelden.jpg
 ---
 
 Statt eines klassischen Rückblicks auf die letzte Iteration habe ich neulich ein

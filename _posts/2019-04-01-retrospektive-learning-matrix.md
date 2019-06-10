@@ -7,6 +7,7 @@ tags:
 - Erfahrungsbericht
 - Retrospektive
 - Prime Directive
+image: flipcharts/learning_matrix.jpg
 ---
 
 Und dann hatte ich plötzlich ein kleines, aber feines Team und durfte am 29.

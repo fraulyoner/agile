@@ -6,6 +6,7 @@ categories:
 tags:
 - Scrum
 - Kickoff
+image: flipcharts/scrum_team.jpg
 ---
 
 Modell und Realität sind niemals deckungsgleich – oder um es mit den Worten von

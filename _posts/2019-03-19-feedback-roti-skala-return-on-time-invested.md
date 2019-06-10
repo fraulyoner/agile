@@ -6,6 +6,7 @@ categories:
 tags:
 - Feedback
 - Retrospektive
+image: flipcharts/feedback_roti.jpg
 ---
 
 Jedes Feedback ist wertvoll und bietet die Chance für Selbstreflexion und

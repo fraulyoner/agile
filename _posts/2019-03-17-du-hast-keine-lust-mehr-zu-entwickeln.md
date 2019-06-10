@@ -5,6 +5,7 @@ categories:
 - Logbuch
 tags:
 - Erfahrungsbericht
+image: mindset/motivation.jpg
 ---
 
 Mit dieser Frage wurde ich in den letzten Monaten mehrfach konfrontiert. Und
