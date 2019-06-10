@@ -4,6 +4,8 @@ title: Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
 tags:
 - Mindset
 image: mindset/du-musst-nichts.jpg
+excerpt: "<p>Möchtest du die Zügel deines Lebens selbst in der Hand halten und
+Veränderungen anstreben? Dann solltest du anfangen, Verantwortung zu übernehmen.</p>"
 ---
 
 Beklage dich möglichst oft und laut darüber, wie schwer du es im Leben hast und

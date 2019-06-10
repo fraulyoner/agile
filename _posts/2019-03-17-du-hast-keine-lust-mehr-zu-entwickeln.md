@@ -2,14 +2,17 @@
 layout: post
 title: Du bist jetzt Scrum Master? Hast du keine Lust mehr zu entwickeln?
 tags:
-- Mindset
+- Logbuch
 image: mindset/motivation.jpg
+excerpt: "<p>Mit dieser Frage wurde ich in den letzten Monaten mehrfach
+konfrontiert. Und nein, der Grund für meine Umorientierung ist sicherlich nicht
+mangelnde Lust am Entwickeln.</p>"
 ---
 
 Mit dieser Frage wurde ich in den letzten Monaten mehrfach konfrontiert. Und
 nein, der Grund für meine Umorientierung ist sicherlich nicht mangelnde Lust am
-Entwickeln. Das empfinde ich doch als eine recht einseitige Sichtweise. Es ist
-nicht das Entwickeln, das mich nicht mehr interessiert, sondern vielmehr
+Entwickeln. Das empfinde ich doch als eine recht einseitige Sichtweise.
+Es ist nicht das Entwickeln, das mich nicht mehr interessiert, sondern vielmehr
 interessieren mich aktuell andere Dinge einfach mehr.
 
 ## Keine leichte Entscheidung

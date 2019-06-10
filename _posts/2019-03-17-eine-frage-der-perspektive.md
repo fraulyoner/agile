@@ -4,6 +4,9 @@ title: Wie deine Perspektive deine Zufriedenheit beeinflusst
 tags:
 - Mindset
 image: mindset/karl-valentin.jpg
+excerpt: "<p>Egal, wie sehr wir uns bemühen, den Lauf der Dinge können wir
+dennoch nur begrenzt kontrollieren. Es wird immer wieder unvorhergesehene
+Ereignisse in unserem Leben geben, die uns nicht unbedingt gefallen.</p>"
 ---
 
 Egal, wie sehr wir uns bemühen, den Lauf der Dinge können wir dennoch nur

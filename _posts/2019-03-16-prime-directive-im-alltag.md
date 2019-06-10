@@ -4,6 +4,9 @@ title: Mit der Prime Directive zu einem positiven Menschenbild im Alltag
 tags:
 - Mindset
 image: mindset/nachfragen-statt-urteilen.jpg
+excerpt: "<p>Mit diesem Blog Post möchte ich dir einige Gedankenanstöße liefern,
+um deine Mitmenschen weniger verurteilend zu betrachten und dadurch ärgerliche
+Gefühle bei dir selbst zu mindern.</p>"
 ---
 
 *Was ist das bloß für ein Idiot?!* - Kennst du solche Gedanken auch? Seit

@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Die drei Rollen eines Scrum Teams
+title: Scrum – Die drei Rollen
 tags:
 - Scrum
 image: flipcharts/scrum_team.jpg
+excerpt: "<p>Im Rahmen meines ersten kleinen Team-Kickoffs habe ich eine
+Visualisierung der drei Scrum Rollen vorbereitet, um die Zuständigkeiten
+aufzuzeigen und wie sich ein Ungleichgewicht auswirken kann.</p>"
 ---
 
 Modell und Realität sind niemals deckungsgleich – oder um es mit den Worten von

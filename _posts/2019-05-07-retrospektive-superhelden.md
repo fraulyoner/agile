@@ -8,8 +8,8 @@ image: flipcharts/superhelden.jpg
 
 Statt eines klassischen Rückblicks auf die letzte Iteration habe ich neulich ein
 anderes Format ausprobiert, um sichtbar zu machen, welche Ressourcen im Team zur
-Verfügung stehen. Dafür habe ich die [Superhelden-Metapher](https://retromat.org/de/?id=107)
-gewählt:
+Verfügung stehen. Dafür habe ich eine
+[Superhelden-Metapher](https://retromat.org/de/?id=107) gewählt.
 
 [![Wenn ihr Superhelden wärt]({{site.baseurl}}/assets/img/posts/flipcharts/superhelden.jpg)]({{site.baseurl}}/assets/img/posts/flipcharts/superhelden.jpg)
 

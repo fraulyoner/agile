@@ -6,10 +6,8 @@ tags:
 ---
 
 Diesen Icebreaker habe ich bereits vor Jahren als Teilnehmer in einer
-Retrospektive kennengelernt. Ich fand das Konzept so witzig, dass es mir noch
-Jahre später gut in Erinnerung geblieben ist – lange bevor ich mich überhaupt in
-meiner neuen Rolle als Scrum Master in spe mit Icebreakern auseinandergesetzt
-habe.
+Retrospektive kennengelernt und fand das Konzept so witzig, dass es mir noch
+Jahre später gut in Erinnerung geblieben ist.
 
 ## Wie funktioniert dieser Icebreaker?
 

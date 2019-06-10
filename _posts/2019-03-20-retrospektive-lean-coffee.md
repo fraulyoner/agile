@@ -4,14 +4,16 @@ title: Retrospektive – Lean Coffee
 tags:
 - Retrospektive
 image: flipcharts/lean_coffee.jpg
+excerpt: "<p>Wenn sich für die anstehende Retrospektive bereits klare Themen
+abzeichnen, kann ein offenes Format wie Lean Coffee eine gute Option sein.</p>"
 ---
 
 Am 21. Februar 2019 bekam ich die Gelegenheit, meine dritte Retrospektive zu
 leiten. Der Scrum Master des betreffenden Teams war im Urlaub und ich als
-Neuling durfte eine Übungseinheit in Sachen Teamcoaching einlegen. Bei uns ist
-normalerweise eine Dauer von 90 Minuten bei einem Rhythmus von zwei Wochen
-üblich für Retrospektiven. Aufgrund von Projektdruck wünschte sich das Team
-jedoch explizit eine kurze Retrospektive.
+Neuling durfte eine Übungseinheit in Sachen Teamcoaching einlegen.
+
+Statt der üblichen 90 Minuten (bei einem Rhythmus von zwei Wochen) wünschte sich
+das Team aufgrund von Projektdruck explizit eine kurze Retrospektive.
 
 Die Aussage lautete in etwa wie folgt:
 
@@ -23,39 +25,7 @@ Also bot ich an, die Retrospektive direkt nur auf 60 Minuten anzusetzen und
 habe mich damit auseinandergesetzt, wie ich diese Zeit möglichst zackig
 gestalten kann.
 
-## Einstieg: Alternative Prime Directive
-
-Um den Einstieg möglichst kurz zu halten, aber auch nicht direkt mit dem
-Sammeln von Daten zu starten, habe ich mich dazu entschieden, die
-[Alternative Prime Directive von Ted M. Young](http://jitterted.com/2013/02/11/another-alternative-to-the-retrospective-prime-directive/) zu verlesen:
-
->Manche Tage sind besser als andere, alles läuft super und die Resultate sind
-gut. An anderen Tagen erkenne ich abends, dass ich jede Menge Zeit verschwendet
-habe und Fehler gemacht habe, die ich hätte vorhersehen können.
-Nichtsdestotrotz: Diese Tage sind passiert!
->
-Heute wollen wir herausfinden:\\
-Was können wir aus unseren Gedanken und Handlungen lernen, damit wir in Zukunft
-etwas besser arbeiten können?\\
-Wie können wir unsere Umgebung verändern, so dass es leichter für uns ist, gute
-Arbeit zu leisten, und es unwahrscheinlicher wird, dass wir Zeit vergeuden und
-Fehler machen?
->
-> Übersetzung von Nicole Rauch:
-> [http://nicolerauch.de/posts/2015-04-15-retrospective-prime-directive-eine-alternative.html](http://nicolerauch.de/posts/2015-04-15-retrospective-prime-directive-eine-alternative.html)
-
-Mir persönlich gefällt diese Alternative ein Stück weit besser als die
-[originale Prime Directive von Norm Kerth](http://retrospectivewiki.org/index.php?title=The_Prime_Directive), da sie als Zusatz Fragen für einen
-lösungsorientierten Rahmen enthält.
-
-### Lessons Learned
-
-Zitate als Einstieg möchte ich künftig eher nicht mehr ohne visuelle Begleitung
-machen. Ich hatte das Gefühl, die Wirkung des Zitats war ohne zusätzliche
-visuelle Darstellung, z.B. auf einem Flipchart, relativ schwach, inbesondere für
-den Einstieg, bei dem man als Teilnehmer erst noch gedanklich ankommen muss.
-
-## Daten: Lean Coffee
+## Lean Coffee
 
 Da ich in den Dailys bereits aufgeschnappt hatte, dass es klare Themen gab, über
 die das Team gerne sprechen würde, und auch um die angesetzten 60 Minuten straff
@@ -68,7 +38,7 @@ Mithilfe eines Flipcharts habe ich kurz das Prinzip erklärt und dann ging's auc
 schon los. Themen waren recht schnell zu Genüge gefunden und mittels Dot-Voting
 ergaben sich drei Themen, die besprochen werden sollten.
 
-### Lessons Learned
+## Lessons Learned
 
 Um die ablaufende Diskussionszeit anzuzeigen, habe ich einen [Time Timer](https://time-timer.de/)
 benutzt. Dabei habe ich bewusst den Alarm deaktiviert, da ich das Alarmsignal

@@ -5,6 +5,9 @@ tags:
 - Feedback
 - Retrospektive
 image: flipcharts/feedback_roti.jpg
+excerpt: "<p>Jedes Feedback ist wertvoll und bietet die Chance für
+Selbstreflexion und Verbesserungspotential. Ich persönlich empfinde (aktuell)
+die ROTI-Skala (Return on Time invested) als die wertvollste Feedbackmethode</p>"
 ---
 
 Jedes Feedback ist wertvoll und bietet die Chance für Selbstreflexion und
