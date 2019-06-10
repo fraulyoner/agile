@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Icebreaker – Eine Lüge, eine Wahrheit
-categories:
-- Agilität
 tags:
 - Icebreaker
 ---

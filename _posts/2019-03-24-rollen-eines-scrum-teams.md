@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Die drei Rollen eines Scrum Teams
-categories:
-- Agilität
 tags:
 - Scrum
 - Kickoff

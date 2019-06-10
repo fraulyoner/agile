@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Du bist jetzt Scrum Master? Hast du keine Lust mehr zu entwickeln?
-categories:
-- Logbuch
 tags:
 - Erfahrungsbericht
 image: mindset/motivation.jpg

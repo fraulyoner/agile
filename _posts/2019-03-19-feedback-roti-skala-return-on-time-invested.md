@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Feedback – Return on Time invested
-categories:
-- Agilität
 tags:
 - Feedback
 - Retrospektive

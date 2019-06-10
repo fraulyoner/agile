@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Meine erste Retrospektive – Wenn Fremd- und Eigenwahrnehmung divergieren
-categories:
-- Logbuch
 tags:
 - Erfahrungsbericht
 - Retrospektive

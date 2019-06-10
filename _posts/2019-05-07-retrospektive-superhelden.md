@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Retrospektive – Superhelden
-categories:
-- Agilität
 tags:
 - Erfahrungsbericht
 - Retrospektive

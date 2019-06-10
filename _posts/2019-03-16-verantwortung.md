@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Willst du Verantwortung übernehmen oder dich fremdbestimmen lassen?
-categories:
-- Mindset
 tags:
 - Perspektivenwechsel
 - Verantwortung

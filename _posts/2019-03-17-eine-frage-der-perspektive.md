@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Wie deine Perspektive deine Zufriedenheit beeinflusst
-categories:
-- Mindset
 tags:
 - Verantwortung
 - Perspektivenwechsel

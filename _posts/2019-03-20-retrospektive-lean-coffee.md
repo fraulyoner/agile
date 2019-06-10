@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Retrospektive – Lean Coffee
-categories:
-- Agilität
 tags:
 - Erfahrungsbericht
 - Retrospektive

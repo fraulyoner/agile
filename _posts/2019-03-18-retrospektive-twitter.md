@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Retrospektive – Tweet your iteration
-categories:
-- Agilität
 tags:
 - Erfahrungsbericht
 - Retrospektive

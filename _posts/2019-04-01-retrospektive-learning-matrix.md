@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Retrospektive – Learning Matrix
-categories:
-- Agilität
 tags:
 - Erfahrungsbericht
 - Retrospektive
