@@ -2,9 +2,7 @@
 layout: post
 title: Retrospektive – Learning Matrix
 tags:
-- Erfahrungsbericht
 - Retrospektive
-- Prime Directive
 image: flipcharts/learning_matrix.jpg
 ---
 

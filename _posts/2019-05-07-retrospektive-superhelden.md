@@ -2,9 +2,7 @@
 layout: post
 title: Retrospektive – Superhelden
 tags:
-- Erfahrungsbericht
 - Retrospektive
-- Metapher
 image: flipcharts/superhelden.jpg
 ---
 

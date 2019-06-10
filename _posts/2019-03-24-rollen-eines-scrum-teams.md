@@ -3,7 +3,6 @@ layout: post
 title: Die drei Rollen eines Scrum Teams
 tags:
 - Scrum
-- Kickoff
 image: flipcharts/scrum_team.jpg
 ---
 

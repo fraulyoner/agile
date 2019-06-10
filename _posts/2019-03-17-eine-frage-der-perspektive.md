@@ -2,8 +2,6 @@
 layout: post
 title: Wie deine Perspektive deine Zufriedenheit beeinflusst
 tags:
-- Verantwortung
-- Perspektivenwechsel
 - Mindset
 image: mindset/karl-valentin.jpg
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: Retrospektive – Tweet your iteration
 tags:
-- Erfahrungsbericht
 - Retrospektive
 image: flipcharts/retro-twitter.jpg
 ---

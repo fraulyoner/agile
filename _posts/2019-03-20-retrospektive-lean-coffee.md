@@ -2,9 +2,7 @@
 layout: post
 title: Retrospektive – Lean Coffee
 tags:
-- Erfahrungsbericht
 - Retrospektive
-- Lean Coffee
 image: flipcharts/lean_coffee.jpg
 ---
 

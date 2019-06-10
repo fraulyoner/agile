@@ -2,9 +2,7 @@
 layout: post
 title: Mit der Prime Directive zu einem positiven Menschenbild im Alltag
 tags:
-- Perspektivenwechsel
 - Mindset
-- Prime Directive
 image: mindset/nachfragen-statt-urteilen.jpg
 ---
 
