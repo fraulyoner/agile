@@ -25,12 +25,12 @@ Elternzeit, habe ich beschlossen, mich beruflich umzuorientieren.
 Nicht weil mich die Softwareentwicklung nicht mehr interessiert, sondern weil
 mich andere Dinge einfach noch mehr interessieren.
 
+![Motivation is what gets you started. Habit is what keeps you going.]({{ site.baseurl}}/assets/img/motivation.jpg)
+
 ### Agile Coach in Ausbildung
 
 Seit Februar 2019 bin ich nun daher als Scrum Master / Agile Coach in Ausbildung
 unterwegs.
-
-![Motivation is what gets you started. Habit is what keeps you going.]({{ site.baseurl}}/assets/img/motivation.jpg)
 
 Dieser Blog dient mir in erster Linie als wertvolles Logbuch, um Erkenntnisse
 und persönliche Gedanken festzuhalten, die ich im Laufe meiner Reise zu den
