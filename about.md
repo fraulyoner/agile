@@ -3,6 +3,8 @@ layout: page
 title: Hi, ich bin Frau Lyoner!
 ---
 
+![Hi, ich bin Frau Lyoner!]({{site.baseurl}}/assets/img/avatar.jpg){:class="avatar"}
+
 Hallo, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de).
 Zusammen mit Ehemann und Tochter lebe ich im schönen Karlsruhe. Ich bin
 Wortjongleur, Chaosbändiger, Buchstabenmaler – und vieles mehr.
