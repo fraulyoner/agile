@@ -3,6 +3,7 @@ layout: post
 title: Retrospektive – Sag's mit einer Zahl
 tags:
 - Retrospektive
+- Feedback
 image: flipcharts/skala.jpg
 ---
 
