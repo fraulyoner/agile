@@ -37,7 +37,7 @@ vorbereitet:
 **Idee:** Habt ihr Ideen oder ganz konkrete Vorschläge, die ihr gerne
   ausprobieren würdet?
 
-### Lessons Learned
+## Lessons Learned
 
 Ich habe die Teilnehmer direkt für alle vier Felder Themen sammeln lassen und
 bewusst keine Zeitangabe gemacht, sondern abgewartet, wie lange die Schreibflut

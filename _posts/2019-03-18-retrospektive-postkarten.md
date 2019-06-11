@@ -18,7 +18,7 @@ letzte Iteration assoziiert und seine Wahl mit einigen Sätzen begründen.
 
 [![Retrospektive Einstieg: Postkarten]({{site.baseurl}}/assets/img/posts/flipcharts/retro-postkarten.jpg)]({{site.baseurl}}/assets/img/posts/flipcharts/retro-postkarten.jpg)
 
-### Fallstrick-Vermeidung
+## Fallstrick-Vermeidung
 
 Drei Karten pro Teilnehmer habe ich als eine gute Anzahl empfunden. Die Wahl der
 Teilnehmer sollte schnell und intuitiv erfolgen. Das bedeutet, es braucht eine

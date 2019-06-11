@@ -21,7 +21,7 @@ ist der Nächste dran.
 
 Ich esse gerne Rosenkohl und mag deutschen HipHop.
 
-### Fallstrick-Vermeidung
+## Fallstrick-Vermeidung
 
 Je besser sich die Teilnehmer der Runde bereits kennen, desto schwieriger kann
 die Aufgabe erscheinen. Denn einerseits möchte man eine Aussage finden, die

@@ -20,7 +20,7 @@ Charakteristika eines Tweets vorgestellt:
 Für den Einstieg hatte ich Postkarten ausgelegt
 ([Sag's mit einem Bild]({{ site.baseurl }}{% link _posts/2019-03-18-retrospektive-postkarten.md %})), die beim Sammeln der Tweets als eingebettete Bilder genutzt werden konnten.
 
-### Fallstrick-Vermeidung
+## Fallstrick-Vermeidung
 
 Mir war das im Retromat beschriebene Vorgehen zu offen, daher habe ich bewusst
 einen "Rahmen" für die Tweets gesetzt, um Teilnehmern, die unter Umständen doch
