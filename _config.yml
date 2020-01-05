@@ -5,10 +5,11 @@ url: "https://fraulyoner.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: fraulyoner goes agile
-  description: "Blog über meine Reise zum Agile Coach, auf dem ich meine Lessons
-  Learned und persönliche Gedanken teile, die ich während meiner Arbeit als
-  Scrum Master in spe gesammelt habe." #used by search engines
+  title: Just Another Agile Log Book
+  description: "Blog über meine Reise zum Agile Coach, auf dem ich nicht nur
+  Ideen und Erfahrungen zu Retrospektiven-Formaten festhalte, sondern auch
+  persönliche Gedanken und Lessons Learned, die ich während meiner Arbeit als
+  Scrum Master gesammelt habe." #used by search engines
 
   # Icons
   rss: true
