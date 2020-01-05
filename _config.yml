@@ -6,15 +6,9 @@ url: "https://fraulyoner.github.io"
 theme_settings:
   # Meta
   title: fraulyoner goes agile
-  favicon: assets/favicon.ico
   description: "Blog über meine Reise zum Agile Coach, auf dem ich meine Lessons
   Learned und persönliche Gedanken teile, die ich während meiner Arbeit als
   Scrum Master in spe gesammelt habe." #used by search engines
-  image: "assets/img/logo.jpg"
-
-  # Header text
-  header_text:
-  header_text_feature_image: #"assets/img/xy.jpg"
 
   # Icons
   rss: true

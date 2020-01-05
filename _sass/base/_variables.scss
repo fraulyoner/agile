@@ -19,9 +19,6 @@ $brand-color: #fff;
 $background-color: #fff;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
-// Backup
-$nice-color: #1ABC9C;
-
 // Typography colours
 $text-color: #383838;
 $text-color-light: lighten($text-color, 30%);
@@ -44,8 +41,3 @@ $feature-image-size: cover; // options include "cover", "contain", "auto"
 $post-image-border-color: #eee;
 $post-image-width: 320px;
 $post-image-height: 320px;
-
-// Header description box
-$header-desc-background-color: $link-color;
-$header-desc-text-color: #FFF;
-$header-desc-link-color: #02453D;
