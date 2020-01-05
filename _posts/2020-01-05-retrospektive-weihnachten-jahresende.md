@@ -7,8 +7,8 @@ image: flipcharts/weihnachtliche_retrospektive_zum_jahresende.jpg
 ---
 
 Wenn das Jahresende näher rückt, kann man in einer Retrospektive auch schon mal
-ein Thema wie Weihnachten als Metapher nutzen. Ich empfehle ein paar
-Heißgetränke und Plätzchen dazu ;-)
+ein Thema wie Weihnachten als Metapher nutzen. Ich empfehle dazu ein paar
+Heißgetränke und Plätzchen ;-)
 
 [![Weihnachtliche Retrospektive zum Jahresende]({{site.baseurl}}/assets/img/posts/flipcharts/weihnachtliche_retrospektive_zum_jahresende.jpg)]({{site.baseurl}}/assets/img/posts/flipcharts/weihnachtliche_retrospektive_zum_jahresende.jpg)
 
