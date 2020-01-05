@@ -5,10 +5,10 @@ title: Hi, ich bin Frau Lyoner!
 
 ![Hi, ich bin Frau Lyoner!]({{site.baseurl}}/assets/img/avatar.jpg){:class="avatar"}
 
-Hallo, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de).
+Hi, mein Name ist Aljona alias [Frau Lyoner](https://www.fraulyoner.de).
 Zusammen mit Ehemann und Tochter lebe ich im schönen Karlsruhe. Ich bin
 Wortjongleur, Chaosbändiger, Buchstabenmaler – und vieles mehr.
-Als [Universalist aka Scanner](https://www.meinimalismus.de/perspektive/2018/09/14/wenn-man-alles-kann.html) bräuchte ich eigentlich mehrere Leben, um alle meine Interessen und
+Als [Allrounder aka Scanner](https://www.meinimalismus.de/perspektive/2018/09/14/wenn-man-alles-kann.html) bräuchte ich eigentlich mehrere Leben, um alle meine Interessen und
 Vorhaben unter einen Hut zu bringen.
 
 ### Lebenslauf mit Kurven
@@ -27,15 +27,15 @@ mich andere Dinge einfach noch mehr interessieren.
 
 ![Motivation is what gets you started. Habit is what keeps you going.]({{ site.baseurl}}/assets/img/motivation.jpg)
 
-### Agile Coach in Ausbildung
+### Neustart als Scrum Master
 
-Seit Februar 2019 bin ich nun daher als Scrum Master / Agile Coach in Ausbildung
-unterwegs.
+Seit Februar 2019 bin ich nun daher als Scrum Master unterwegs. Auf dieser
+abenteuerlichen Reise dient mir dieser Blog als Logbuch, in dem ich nicht nur
+Ideen und Erfahrungen zu Retrospektiven festhalte, sondern auch persönliche
+Gedanken und Lessons Learned.
 
-Dieser Blog dient mir in erster Linie als wertvolles Logbuch, um Erkenntnisse
-und persönliche Gedanken festzuhalten, die ich im Laufe meiner Reise zu den
-Bergen der agilen Weisheit sammle. Ich würde mich jedoch freuen, wenn auch
-andere Menschen von meinen subjektiven Erfahrungsberichten und Gedankenanstößen
-profitieren könnten. Feedback ist immer herzlich willkommen!
+Ich würde mich freuen, wenn auch andere Menschen von meinen subjektiven
+Erfahrungsberichten und Gedankenanstößen profitieren könnten. Feedback ist immer
+herzlich willkommen!
 
 ![Frau Lyoner]({{ site.baseurl}}/assets/img/signatur.png){:class="signatur"}
