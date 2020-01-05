@@ -1,40 +1,12 @@
 .post-content > :last-child {
   margin-bottom: 0;
 }
-article, .comments {
+article {
   @extend %padding-regular;
   border-bottom: 1px solid $border-color;
   float: left;
   width: 100%;
-  h2.comment-title {
-    margin-top: 0;
-  }
-  .comment-form-element {
-    label {
-      display: block;
-      margin-top: 1em;
-    }
-    input[type="text"], textarea {
-      padding: 10px;
-      border: 1px solid $text-color-light;
-      text-overflow: clip;
-      width: 100%;
-      @media(min-width: $device-sm) {
-        width: 50%;
-      }
-    }
-  }
-  .comments-list {
-    border-bottom: 1px dotted $border-color;
-    & + .comments-list {
-      padding-top: 1em;
-    }
-    &:last-child > p:last-child {
-      margin-bottom: 0;
-    }
-  }
-}
-article {
+
   .subtitle {
     font-size: 1.45em;
     font-weight: normal;

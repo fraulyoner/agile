@@ -265,35 +265,6 @@ dies erforderlich machen. Wir informieren Sie, sobald durch die
 Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder
 eine sonstige individuelle Benachrichtigung erforderlich wird.
 
-### Kommentare und Beiträge {#dsg-comments}
-
-Wenn Nutzer Kommentare oder sonstige Beiträge hinterlassen, können ihre
-IP-Adressen auf Grundlage unserer berechtigten Interessen im Sinne des
-Art. 6 Abs. 1 lit. f. DSGVO für 7 Tage gespeichert werden. Das erfolgt
-zu unserer Sicherheit, falls jemand in Kommentaren und Beiträgen
-widerrechtliche Inhalte hinterlässt (Beleidigungen, verbotene politische
-Propaganda, etc.). In diesem Fall können wir selbst für den Kommentar
-oder Beitrag belangt werden und sind daher an der Identität des
-Verfassers interessiert.
-
-Des Weiteren behalten wir uns vor, auf Grundlage unserer berechtigten
-Interessen gem. Art. 6 Abs. 1 lit. f. DSGVO, die Angaben der Nutzer
-zwecks Spamerkennung zu verarbeiten.
-
-Auf derselben Rechtsgrundlage behalten wir uns vor, im Fall von Umfragen
-die IP-Adressen der Nutzer für deren Dauer zu speichern und Cookies zu
-verwenden, um Mehrfachabstimmungen zu vermeiden.
-
-Die im Rahmen der Kommentare und Beiträge mitgeteilte Informationen zur
-Person, etwaige Kontakt- sowie Websiteinformationen als auch die
-inhaltlichen Angaben, werden von uns bis zum Widerspruch der Nutzer
-dauerhaft gespeichert.
-
-Da dies eine statische Webseite ist, verwenden wir [Simple Form](https://getsimpleform.com)
-für unsere Formulare. Bei der Verwendung unseres Formulars zum Erstellen eines
-neuen Kommentars an einem Blog Artikel werden daher die von Ihnen eingegebenen
-Daten vom externen Anbieter [Simple Form](https://getsimpleform.com) verarbeitet und unterliegen dessen Datenschutzerklärung.
-
 ### Hosting und E-Mail-Versand {#dsg-hostingprovider}
 
 Die von uns in Anspruch genommenen Hosting-Leistungen dienen der
