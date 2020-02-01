@@ -8,8 +8,8 @@ image: flipcharts/loesungsfokussierung_deshazer.jpg
 
 Manchmal kann es hilfreich sein, Probleme intensiver zu beleuchten, um
 Erkenntnisse für mögliche Lösungswege zu sammeln. Ein anderer, wie ich finde
-sehr wertvoller Ansatz, ist jedoch den Fokus weg von Problemen zu Lösungen zu
-lenken.
+sehr wertvoller Ansatz, ist jedoch den Fokus weg von Problemen zu positiven
+Ausnahmen und Lösungen zu lenken.
 
 [![Retrospektive Grundsätze Lösungsfokussierung nach Steve de Shazer]({{site.baseurl}}/assets/img/posts/flipcharts/loesungsfokussierung_deshazer.jpg)]({{site.baseurl}}/assets/img/posts/flipcharts/loesungsfokussierung_deshazer.jpg)
 
