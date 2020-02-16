@@ -7,10 +7,9 @@ theme_settings:
   # Meta
   title: Yet Another Agile Blog
   title_short: YAAB
-  description: "Blog über meine Reise zum Agile Coach, auf dem ich nicht nur
-  Ideen und Erfahrungen zu Retrospektiven-Formaten festhalte, sondern auch
-  persönliche Gedanken und Lessons Learned, die ich während meiner Arbeit als
-  Scrum Master gesammelt habe." #used by search engines
+  description: "Blog über meine agile Reise als Scrum Master und Team Coach,
+  auf dem ich vor allem Ideen und Erfahrungen zu Retrospektiven und Workshops
+  festhalte" #used by search engines
 
   # Icons
   rss: true
