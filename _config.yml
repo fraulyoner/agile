@@ -5,7 +5,8 @@ url: "https://fraulyoner.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Yet Another Agile Log Book
+  title: Yet Another Agile Blog
+  title_short: YAAB
   description: "Blog über meine Reise zum Agile Coach, auf dem ich nicht nur
   Ideen und Erfahrungen zu Retrospektiven-Formaten festhalte, sondern auch
   persönliche Gedanken und Lessons Learned, die ich während meiner Arbeit als
