@@ -29,10 +29,10 @@ mich andere Dinge einfach noch mehr interessieren.
 
 ### Neustart als Scrum Master
 
-Seit Februar 2019 bin ich nun daher als Scrum Master unterwegs. Auf dieser
-abenteuerlichen Reise dient mir dieser Blog als Logbuch, in dem ich nicht nur
-Ideen und Erfahrungen zu Retrospektiven festhalte, sondern auch persönliche
-Gedanken und Lessons Learned.
+Seit Februar 2019 bin ich nun als Scrum Master und Team Coach unterwegs. Auf
+dieser abenteuerlichen Reise dient mir dieser Blog als Logbuch, in dem ich
+hauptsächlich Ideen und Erfahrungen zu Retrospektiven und Workshops festhalte,
+aber teilweise auch persönliche Gedanken und Lessons Learned.
 
 Ich würde mich freuen, wenn auch andere Menschen von meinen subjektiven
 Erfahrungsberichten und Gedankenanstößen profitieren könnten. Feedback ist immer
