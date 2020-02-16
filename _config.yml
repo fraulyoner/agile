@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
+baseurl: "/agile"
 url: "https://fraulyoner.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
