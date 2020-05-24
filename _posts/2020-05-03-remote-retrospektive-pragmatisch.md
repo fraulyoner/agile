@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Alle-Remote-Retrospektiven – Pragmatischer Quick-Tipp
+title: Remote-Retrospektive – Pragmatischer Quick-Tipp
 tags:
 - Retrospektive
 image: flipcharts/hoffnungen_gefahren.jpg
-excerpt: "<p>Die Corontäne erfordert plötzliche Umstellung bei der täglichen Arbeit.</p>"
+excerpt: "<p>Wie kann ich als Scrum Master für erfolgreiche Meetings sorgen,
+wenn gerade alle von zuhause aus arbeiten?</p>"
 ---
 
 Die Corontäne erfordert plötzliche Umstellung bei der täglichen Arbeit.
@@ -30,7 +31,7 @@ hier mein super pragmatischer Quick-Tipp:
 
 Ein (optimalerweise kollaboratives) Textdokument mit emotionserweckenden Bildern
 aufpimpen. Das, was sonst auf Flipcharts landen würde, kann genauso gut auf
-Papier gekritzelt werden, das dann eingescannt / fotografiert wird, um in einem
+Papier gekritzelt werden, das dann eingeshttps://fraulyoner.de/cannt / fotografiert wird, um in einem
 Remote-Meeting zum Einsatz kommen zu können.
 
 #### Kleines Bildbeispiel:
