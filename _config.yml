@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/agile"
-url: "https://fraulyoner.github.io"
+url: ""
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
